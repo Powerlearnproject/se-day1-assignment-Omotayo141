@@ -19,6 +19,7 @@ Overall, software engineering drives the creation of high-quality, effective, an
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 ANSWER:-
+
 1. The Emergence of Structured Programming (1960s-1970s): Structured programming introduced systematic approaches to coding by emphasizing clear, logical flow and modularity. Pioneers like Edsger Dijkstra promoted structured programming to reduce complexity and improve code clarity, setting the stage for better software development practices.
 
 2. The Birth of Software Engineering as a Discipline (1968): The NATO Software Engineering Conference marked the formal recognition of software engineering as a distinct discipline. This event highlighted the need for systematic approaches to software development and led to the establishment of foundational practices and principles in the field.
